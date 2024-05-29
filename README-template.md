@@ -24,8 +24,8 @@ build a social links profile solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/MamaFati/social-links-profile-main)
+- Live Site URL: [Live Site](https://clinquant-haupia-6e27f3.netlify.app/)
 
 ## My process
 
@@ -42,9 +42,7 @@ build a social links profile solution
 I had a recap on how to use google font and also learnt how to use boostrap 
  
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MamaFati] (https://www.frontendmentor.io/profile/MamaFati)
  
 
  
